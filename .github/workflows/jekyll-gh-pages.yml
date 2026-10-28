@@ -1,7 +1,6 @@
 name: Build Reportly AI Android App
 
-on:
-workflow_dispatch:
+on: workflow_dispatch:
 push:
 branches:
 - main
